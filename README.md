@@ -70,3 +70,10 @@ Create an interactive version in Power BI or Tableau.
 Perform Python-based EDA (pandas, matplotlib, seaborn).
 
 Explore predictive modeling for track popularity.
+
+# Preview
+
+Download the Excel file to explore the interactive dashboard (slicers, pivots).
+
+<img width="796" height="696" alt="Знімок екрана 2025-12-16 о 12 13 01" src="https://github.com/user-attachments/assets/6a391d31-5b6d-46d2-96f4-9790895533ed" />
+
